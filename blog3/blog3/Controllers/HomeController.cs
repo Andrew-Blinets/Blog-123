@@ -17,11 +17,6 @@ namespace blog3.Controllers
             var model = new ArticleModel();
             return View(model);
         }
-        public ActionResult Index1()
-        {
-            var model = new ArticleModel();
-            return View(model);
-        }
 
     }
 }
