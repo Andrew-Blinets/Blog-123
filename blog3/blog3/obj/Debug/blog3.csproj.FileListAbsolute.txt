@@ -41,3 +41,46 @@ E:\веб-прога\blog3\blog3\bin\ru\System.Web.WebPages.Razor.resources.dll
 E:\веб-прога\blog3\blog3\obj\Debug\blog3.csprojResolveAssemblyReference.cache
 E:\веб-прога\blog3\blog3\obj\Debug\blog3.dll
 E:\веб-прога\blog3\blog3\obj\Debug\blog3.pdb
+E:\РВП блог\blog3\blog3\bin\blog3.dll.config
+E:\РВП блог\blog3\blog3\bin\blog3.dll
+E:\РВП блог\blog3\blog3\bin\blog3.pdb
+E:\РВП блог\blog3\blog3\bin\Antlr3.Runtime.dll
+E:\РВП блог\blog3\blog3\bin\EntityFramework.dll
+E:\РВП блог\blog3\blog3\bin\Microsoft.Web.Infrastructure.dll
+E:\РВП блог\blog3\blog3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\РВП блог\blog3\blog3\bin\Newtonsoft.Json.dll
+E:\РВП блог\blog3\blog3\bin\System.Net.Http.Formatting.dll
+E:\РВП блог\blog3\blog3\bin\System.Web.Http.dll
+E:\РВП блог\blog3\blog3\bin\System.Web.Http.WebHost.dll
+E:\РВП блог\blog3\blog3\bin\System.Web.Mvc.dll
+E:\РВП блог\blog3\blog3\bin\System.Web.Optimization.dll
+E:\РВП блог\blog3\blog3\bin\System.Web.Providers.dll
+E:\РВП блог\blog3\blog3\bin\System.Web.Razor.dll
+E:\РВП блог\blog3\blog3\bin\System.Web.WebPages.Deployment.dll
+E:\РВП блог\blog3\blog3\bin\System.Web.WebPages.dll
+E:\РВП блог\blog3\blog3\bin\System.Web.WebPages.Razor.dll
+E:\РВП блог\blog3\blog3\bin\WebGrease.dll
+E:\РВП блог\blog3\blog3\bin\EntityFramework.xml
+E:\РВП блог\blog3\blog3\bin\Newtonsoft.Json.xml
+E:\РВП блог\blog3\blog3\bin\System.Net.Http.Formatting.xml
+E:\РВП блог\blog3\blog3\bin\System.Web.Http.xml
+E:\РВП блог\blog3\blog3\bin\System.Web.Http.WebHost.xml
+E:\РВП блог\blog3\blog3\bin\System.Web.Mvc.xml
+E:\РВП блог\blog3\blog3\bin\System.Web.Razor.xml
+E:\РВП блог\blog3\blog3\bin\System.Web.WebPages.xml
+E:\РВП блог\blog3\blog3\bin\System.Web.WebPages.Deployment.xml
+E:\РВП блог\blog3\blog3\bin\System.Web.WebPages.Razor.xml
+E:\РВП блог\blog3\blog3\bin\ru\EntityFramework.resources.dll
+E:\РВП блог\blog3\blog3\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\РВП блог\blog3\blog3\bin\ru\System.Web.Http.resources.dll
+E:\РВП блог\blog3\blog3\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\РВП блог\blog3\blog3\bin\ru\System.Web.Mvc.resources.dll
+E:\РВП блог\blog3\blog3\bin\ru\System.Web.Optimization.resources.dll
+E:\РВП блог\blog3\blog3\bin\ru\System.Web.Providers.resources.dll
+E:\РВП блог\blog3\blog3\bin\ru\System.Web.Razor.resources.dll
+E:\РВП блог\blog3\blog3\bin\ru\System.Web.WebPages.resources.dll
+E:\РВП блог\blog3\blog3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\РВП блог\blog3\blog3\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\РВП блог\blog3\blog3\obj\Debug\blog3.csprojResolveAssemblyReference.cache
+E:\РВП блог\blog3\blog3\obj\Debug\blog3.dll
+E:\РВП блог\blog3\blog3\obj\Debug\blog3.pdb

@@ -18,5 +18,13 @@ namespace blog3.Controllers
             return View(model);
         }
 
+        public ContentResult Index()
+        {
+            return new ContentResult() { Content = "Hell world" };
+        }
+        public ContentResult GetByUrl(string seoUrl)
+        {
+            return new ContentResult() { Content = "#"+seoUrl+"#"};
+        }
     }
 }

@@ -12,7 +12,8 @@
         {
             <li>
                 <p class="date">@iteam.Date.ToString("D") @iteam.Date.ToString("hh:mm")</p>
-                <p> <a href="@iteam.URL"> @iteam.Text</a></p>
+              @Html.RouteLink("QWEd asd", "article", new { controller = "Comment",action = "ById", id = iteam.ID})
+                  <p> <a href="@iteam.URL"> @iteam.Text</a></p>
             </li>
         }
     </ul>
