@@ -9,7 +9,7 @@ namespace blog3
 {
     public class RouteConfig
     {
-        private static readonly string[] Namespaces = new[] { "Routes.Controllers" };
+        private static readonly string[] Namespaces = new[] { "blog3.Controllers" };
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
