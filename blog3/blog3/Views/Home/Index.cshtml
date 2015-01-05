@@ -1,0 +1,63 @@
+﻿@model  blog3.Models.ArticleModel
+
+<div id="content">
+                    <div class="article">
+                        <h2><span> @Model.Title</span></h2>
+                        <p class="info noprint"> <span class="date">@Model.Date.ToString("D") </span><span class="time">@Model.Date.ToString("hh:mm")</span><span class="noscreen">,</span> <span class="cat"><a href="http://web-mastery.info/">Category</a></span><span class="noscreen">,</span> <span class="user"><a href="http://web-mastery.info/">My name</a></span><span class="noscreen">,</span></p>
+                        @Html.Raw(Model.Body)
+                    </div>
+                    <hr class="noscreen" />
+                    <div class="article">
+                        <div class="comment_tab">
+                            <h2>
+                                <span> Comments </span>
+                            </h2>
+                        </div>
+                    </div>
+                    <hr class="noscreen" />
+
+                    @foreach (var iteam in Model.Comments)
+                    {
+                        <div class="article">
+                            <div id="comment_section">
+                                <ol class="comments first_level">
+                                    <li>
+                                        <div class="comment_box commentbox1">
+
+                                            <div class="gravatar">
+                                                <img src="~/Content/images/avator1.png" alt="author 1" />
+                                            </div>
+
+                                            <div class="comment_text">
+                                                <div class="comment_author">@iteam.Username</div>
+                                                <div class="comment_author"><span class="date">@iteam.Date.ToString("D")</span><span class="time">@iteam.Date.ToString("hh:mm")</span></div>
+                                                <p>@iteam.Body</p>
+                                                <div class="reply"><a href="#">Reply</a></div>
+                                            </div>
+                                            <div class="cleaner"></div>
+                                        </div>
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+                    }
+
+
+                    <hr class="noscreen" />
+                    <div class="article">
+                        <div id="comment_form">
+                            <h3>Leave A Comment</h3>
+
+                            <form action="#" method="post">
+                                <div class="form_row">
+                                    <label>Your comment</label><br />
+                                    <textarea name="comment" rows="" cols=""></textarea>
+                                </div>
+
+                                <input type="submit" name="Submit" value="Submit" class="submit_btn" />
+                            </form>
+
+                        </div>
+                    </div>
+                    <hr class="noscreen" />
+                </div>

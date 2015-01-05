@@ -1,0 +1,18 @@
+﻿@{
+    Layout = null;
+}
+@model blog3.Models.RecentDateModel 
+
+<div>
+    <hr class="noscreen" />
+    <h3><span>Recent Post</span></h3>
+    <ul id="archive">
+        @foreach (var iteam in Model.Items)
+        {
+            <li>
+                <p class="date">@iteam.Date.ToString("D")</p>
+                <p> <a href="@iteam.URL"> @iteam.Text</a></p>
+            </li>
+        }
+    </ul>
+</div>
