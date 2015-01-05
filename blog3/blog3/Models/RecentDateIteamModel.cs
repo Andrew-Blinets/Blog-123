@@ -9,7 +9,7 @@ namespace blog3.Models
     {
         public RecentDateIteamModel()
         {
-            Text = "wecdsvc vdsf dv df ";
+            Text = "This is text";
             URL = "http://google.com";
             Date = DateTime.Now.AddDays(-1);
             ID = "qwe";
